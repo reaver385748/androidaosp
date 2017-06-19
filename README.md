@@ -1,4 +1,0 @@
-# androidaosp
-# FULL ANDROID BUILD BUILD ENVIRONMENT
-
-
